@@ -2,8 +2,8 @@ package com.sadir.trading.execution;
 
 import com.sadir.trading.model.StockData;
 
-
-
+// اهميته تكمن في كونه حلقة الوصل بين الاستراتيجية التي تحلل وتقرر والاجراء العملي الشراء والبيع
+//  هذا الكلاس يتلقى اوامر من الاستراتيجية والتنفيذ هو الان طباعة لمن يمكن تطويره لاحقا بارسال اوامر حقيقية الى منصة تداول او تسجيل الصفقات في قاعدة البيانات او حساب الارباح والخسائر
 public class TradeExecutor {
 
     public void buy(StockData data){

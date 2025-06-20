@@ -12,11 +12,12 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String symbol = "EURUSD";
+        String symbol = "WTI";
         TradeExecutor executor = new TradeExecutor();
         TradingStrategy strategy = new MovingAverageStrategy(executor);
 
-
+        // هنا يتم جلب البيانات التاريخية للرمز المحدد من خلال كائن AlphaVantageFetcher
+        // البيانات عبارة عن قائمة من كائنات StockData وكل كائن يمثل بيانات يومية مثل السعر الافتتاحي الاغلاق الاعلى الادنى
         List<StockData> historicalData = AlphaVantageFetcher.fetchHistoricalPrices(symbol);
 
         for (StockData data : historicalData) {
