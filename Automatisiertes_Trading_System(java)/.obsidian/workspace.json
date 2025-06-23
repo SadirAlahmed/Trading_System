@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "ba0701eb0d90b98d",
+    "type": "split",
+    "children": [
+      {
+        "id": "38311a6b1e9d8603",
+        "type": "tabs",
+        "dimension": 73.92601431980907,
+        "children": [
+          {
+            "id": "ccb177a7843ad576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projekt_Dokumentation/07_Quellen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07_Quellen"
+            }
+          }
+        ]
+      },
+      {
+        "id": "14da262745629d01",
+        "type": "tabs",
+        "dimension": 26.07398568019093,
+        "children": [
+          {
+            "id": "53b076d9f929f531",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ff4a971873766b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "781572262a17c730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d428907da4f2f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "1fc33ea3e14586df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "c6d4a101e7833d88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bfe83ffdca0821d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50a917a9338746b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "973bd9c0f72d8d3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projekt_Dokumentation/07_Quellen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für 07_Quellen"
+            }
+          },
+          {
+            "id": "ea5e65cde260d01a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projekt_Dokumentation/07_Quellen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von 07_Quellen öffnen"
+            }
+          },
+          {
+            "id": "bc15962d15875282",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f176305c153edbd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projekt_Dokumentation/07_Quellen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von 07_Quellen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "ccb177a7843ad576",
+  "lastOpenFiles": [
+    "Projekt_Dokumentation/01_Inhaltsverzeichnis.md",
+    "Projekt_Dokumentation/07_Quellen.md",
+    "Projekt_Dokumentation/06_Fazit & Ausblick.md",
+    "Projekt_Dokumentation/05_Test & Qualitätssicherung.md",
+    "Projekt_Dokumentation/04_Realisierung.md",
+    "Projekt_Dokumentation/03_Analyse & Planung.md",
+    "Projekt_Dokumentation/02_Einleitung.md",
+    "Projekt_Dokumentation/00_Deckblatt.md",
+    "Projekt_Dokumentation/07_Anhang.md",
+    "Einleitung.md",
+    "Problemstellung.md",
+    "Unbenannt.canvas",
+    "Projekt_Dokumentation/Unbenannt 1.md",
+    "Projekt_Dokumentation",
+    "Neuer Link.md"
+  ]
+}
