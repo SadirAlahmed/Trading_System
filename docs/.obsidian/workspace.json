@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inhaltsverzeichnis.md",
+                "file": "03_Analyse&Planung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Inhaltsverzeichnis"
+              "title": "03_Analyse&Planung"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "c532cceebd91720f",
   "lastOpenFiles": [
-    "02_Einleitung.md",
     "03_Analyse&Planung.md",
+    "02_Einleitung.md",
     "03_Analyse_&_Planung.md",
     "01_Inhaltsverzeichnis.md",
     "06_Fazit & Ausblick.md",
