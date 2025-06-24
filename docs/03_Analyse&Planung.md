@@ -57,10 +57,12 @@ classDiagram
     MovingAverageStrategy --> TradeExecutor
     TradingStrategy --> StockData
     ChartPlotter --> StockData
+```
 
 
 ###### **3.3 Activity-Diagram**
 
+```mermaid
 flowchart TD
     A[Programm starten] --> B[Historische Daten von AlphaVantage abrufen]
     B --> C{Sind Daten abgerufen?}
@@ -82,10 +84,11 @@ flowchart TD
     D --> |Alle Daten verarbeitet| N[Chart mit Kerzen, MA und Signalen plotten]
     N --> O[Chart anzeigen]
     O --> P[Ende]
+```
 
 ###### **3.4 Sequence-Diagram**
 
-
+```mermaid
 sequenceDiagram
     participant Main
     participant Fetcher as AlphaVantageFetcher
@@ -113,3 +116,4 @@ sequenceDiagram
 
     Main->>Plotter: plotCandlestickWithMAAndSignals(...)
     Plotter-->>Main: Chart Displayed
+```
