@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14da262745629d01",
+        "id": "aa93197d9ea6118f",
         "type": "tabs",
         "children": [
           {
-            "id": "53b076d9f929f531",
+            "id": "c532cceebd91720f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,9 +168,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "53b076d9f929f531",
+  "active": "c532cceebd91720f",
   "lastOpenFiles": [
+    "02_Einleitung.md",
     "03_Analyse&Planung.md",
+    "03_Analyse_&_Planung.md",
     "01_Inhaltsverzeichnis.md",
     "06_Fazit & Ausblick.md",
     "03_Analyse & Planung.md",

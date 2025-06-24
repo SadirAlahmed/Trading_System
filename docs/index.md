@@ -4,7 +4,7 @@ Willkommen zur Dokumentation meines Trading-System-Projekts. Hier findest du ein
 
 ## 📚 Inhaltsverzeichnis
 
-1. [📄 Deckblatt](00_Deckblatt.md)  
+1. [📄 Deckblatt](01_Deckblatt.md)  
 2. [📑 Inhaltsverzeichnis](01_Inhaltsverzeichnis.md)  
 3. [📘 Einleitung](02_Einleitung.md)  
 4. [📊 Analyse & Planung](03_Analyse&Planung.md)  
