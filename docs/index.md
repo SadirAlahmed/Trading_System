@@ -4,14 +4,13 @@ Willkommen zur Dokumentation meines Trading-System-Projekts. Hier findest du ein
 
 ## 📚 Inhaltsverzeichnis
 
-1. [📄 Deckblatt](01_Deckblatt.md)  
-2. [📑 Inhaltsverzeichnis](01_Inhaltsverzeichnis.md)  
-3. [📘 Einleitung](02_Einleitung.md)  
-4. [📊 Analyse & Planung](03_Analyse&Planung.md)  
-5. [🛠️ Realisierung](04_Realisierung.md)  
-6. [✅ Test & Qualitätssicherung](05_Test&Qualitätssicherung.md)  
-7. [📈 Fazit & Ausblick](06_Fazit&Ausblick.md)  
-8. [🔗 Quellen](07_Quellen.md)  
+1. [📄 Deckblatt](01_Deckblatt.md)    
+2. [📘 Einleitung](02_Einleitung.md)  
+3. [📊 Analyse & Planung](03_Analyse&Planung.md)  
+4. [🛠️ Realisierung](04_Realisierung.md)  
+5. [✅ Test & Qualitätssicherung](05_Test&Qualitätssicherung.md)  
+6. [📈 Fazit & Ausblick](06_Fazit&Ausblick.md)  
+7. [🔗 Quellen](07_Quellen.md)  
 
 ---
 
