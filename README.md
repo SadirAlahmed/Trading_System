@@ -12,12 +12,12 @@ Ein automatisiertes Handelssystem basierend auf der Gleitender-Durchschnitt-Stra
 
  Inhaltsverzeichnis
 
-- [01 - Einleitung](02_Einleitung.md)
-- [02 - Analyse & Planung](03_Analyse_&_Planung.md)
-- [03 - Realisierung](04_Realisierung.md)
-- [04 - Test & Qualitätssicherung](05_Test_&_Qualitätssicherung.md)
-- [05 - Fazit & Ausblick](06_Fazit_&_Ausblick.md)
-- [06 - Quellen](07_Quellen.md)
+- [01 - Einleitung](docs/02_Einleitung.md)
+- [02 - Analyse & Planung](docs/03_Analyse_&_Planung.md)
+- [03 - Realisierung](docs/04_Realisierung.md)
+- [04 - Test & Qualitätssicherung](docs/05_Test_&_Qualitätssicherung.md)
+- [05 - Fazit & Ausblick](docs/06_Fazit_&_Ausblick.md)
+- [06 - Quellen](docs/07_Quellen.md)
 
  UML-Klassendiagramm
 
