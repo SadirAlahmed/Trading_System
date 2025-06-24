@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38311a6b1e9d8603",
-        "type": "tabs",
-        "dimension": 73.92601431980907,
-        "children": [
-          {
-            "id": "ccb177a7843ad576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projekt_Dokumentation/07_Quellen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07_Quellen"
-            }
-          }
-        ]
-      },
-      {
         "id": "14da262745629d01",
         "type": "tabs",
-        "dimension": 26.07398568019093,
         "children": [
           {
             "id": "53b076d9f929f531",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "type": "markdown",
+              "state": {
+                "file": "01_Inhaltsverzeichnis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Inhaltsverzeichnis"
             }
           }
         ]
@@ -186,8 +168,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "ccb177a7843ad576",
+  "active": "53b076d9f929f531",
   "lastOpenFiles": [
+    "03_Analyse&Planung.md",
+    "01_Inhaltsverzeichnis.md",
+    "06_Fazit & Ausblick.md",
+    "03_Analyse & Planung.md",
+    "00_Deckblatt.md",
     "Projekt_Dokumentation/01_Inhaltsverzeichnis.md",
     "Projekt_Dokumentation/07_Quellen.md",
     "Projekt_Dokumentation/06_Fazit & Ausblick.md",
