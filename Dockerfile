@@ -5,7 +5,7 @@ COPY . .
 RUN mvn clean package -DskipTests
 
 
-FROM eclipse-temurin:24-jre-jammy
+FROM eclipse-temurin:24-jre-noble
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 
